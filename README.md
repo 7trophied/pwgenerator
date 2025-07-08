@@ -18,11 +18,11 @@ Permitiendo configurar su longitud, elegir si incluir letras mayúsculas, caract
 ## Requisitos
 
 - Python 3.x
-- librerías estándar:
+- Librerías:
   - `random`
   - `string`
 
-### No requiere instalación especial. Solo descarga el archivo `.py` y ejecútalo con Python.
+#### No requiere instalación especial. Solo descarga el archivo `.py` y ejecútalo con Python.
 
 ```bash
 python generador_contrasena.py
