@@ -15,7 +15,7 @@ Permitiendo configurar su longitud, elegir si incluir letras mayúsculas, caract
 - Asegura que se incluya al menos un carácter de cada tipo seleccionado
 - Mezcla aleatoriamente los caracteres para mayor seguridad
 
-## 🧑‍💻 Requisitos
+## Requisitos
 
 - Python 3.x
 - librerías estándar:
