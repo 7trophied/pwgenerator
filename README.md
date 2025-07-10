@@ -28,6 +28,8 @@ Permitiendo configurar su longitud, elegir si incluir letras mayúsculas, caract
 python generador_contrasena.py
 ```
 
+
+
 Update 2:
 
 # Generador de Contraseñas Aleatorias (v2.0)
