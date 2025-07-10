@@ -71,7 +71,7 @@ python generador_contrasena_v2.py
 ```
 
 2. Completa los campos en la interfaz:
-  - Ingresa la longitud deseada (mínimo 4)
-  - Selecciona los tipos de caracteres a incluir
-  - Haz clic en "Generar contraseña"
-  - Copia tu contraseña segura desde el campo de resultado
+  - Ingresa la longitud deseada (mínimo 4).
+  - Selecciona los tipos de caracteres a incluir.
+  - Haz clic en "Generar contraseña".
+  - Copia tu contraseña segura desde el campo de resultado.
